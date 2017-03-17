@@ -19,7 +19,7 @@ body {
 .digit1 {
   display: inline-block;
   cursor: pointer;
-  transition: all 0.3s;
+  /*transition: all 0.3s;*/
 }
 
 .digit1:hover {
@@ -35,7 +35,7 @@ body {
 .digit2 {
   color: #a2a2a2;
   position: absolute;
-  top: 50px;
+  top: 59px;
   z-index: -3;
   transition: all 0.3s;
 }
@@ -93,7 +93,16 @@ body {
                0 47px 0 #a2a2a2,
                0 48px 0 #a2a2a2,
                0 49px 0 #a2a2a2,
-               0 50px 0 #a2a2a2;
+               0 50px 0 #a2a2a2,
+               0 51px 0 #a2a2a2,
+               0 52px 0 #a2a2a2,
+               0 53px 0 #a2a2a2,
+               0 54px 0 #a2a2a2,
+               0 55px 0 #a2a2a2,
+               0 56px 0 #a2a2a2,
+               0 57px 0 #a2a2a2,
+               0 58px 0 #a2a2a2,
+               0 59px 0 #a2a2a2;
 }
 
 .digit1a:hover {
@@ -143,11 +152,20 @@ body {
                0 43px 0 #a2a2a2,
                0 44px 0 #a2a2a2,
                0 45px 0 #a2a2a2,
-               0 46px 0 black,
-               0 47px 0 black,
-               0 48px 0 black,
-               0 49px 0 black,
-               0 50px 0 black;
+               0 46px 0 #a2a2a2,
+               0 47px 0 #a2a2a2,
+               0 48px 0 #a2a2a2,
+               0 49px 0 #a2a2a2,
+               0 50px 0 #a2a2a2,
+               0 51px 0 #a2a2a2,
+               0 52px 0 #a2a2a2,
+               0 53px 0 #a2a2a2,
+               0 54px 0 #a2a2a2,
+               0 55px 0 black,
+               0 56px 0 black,
+               0 57px 0 black,
+               0 58px 0 black,
+               0 59px 0 black;
 }
 
 .digit1a:active {
@@ -163,15 +181,15 @@ body {
                0 8px 0 #a2a2a2,
                0 9px 0 #a2a2a2,
                0 10px 0 #a2a2a2,
-               0 11px 0 black,
-               0 12px 0 black,
-               0 13px 0 black,
-               0 14px 0 black,
-               0 15px 0 black,
-               0 16px 0 black,
-               0 17px 0 black,
-               0 18px 0 black,
-               0 19px 0 black,
+               0 11px 0 #a2a2a2,
+               0 12px 0 #a2a2a2,
+               0 13px 0 #a2a2a2,
+               0 14px 0 #a2a2a2,
+               0 15px 0 #a2a2a2,
+               0 16px 0 #a2a2a2,
+               0 17px 0 #a2a2a2,
+               0 18px 0 #a2a2a2,
+               0 19px 0 #a2a2a2,
                0 20px 0 black,
                0 21px 0 black,
                0 22px 0 black,
@@ -202,7 +220,16 @@ body {
                0 47px 0 black,
                0 48px 0 black,
                0 49px 0 black,
-               0 50px 0 black;
+               0 50px 0 black,
+               0 51px 0 black,
+               0 52px 0 black,
+               0 53px 0 black,
+               0 54px 0 black,
+               0 55px 0 black,
+               0 56px 0 black,
+               0 57px 0 black,
+               0 58px 0 black,
+               0 59px 0 black;
 }
 
 /*.digit2a {
